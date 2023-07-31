@@ -5,25 +5,14 @@
 <a href="https://m.twitter.com/SukhiKherera" > <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
 
 #######
-<a>
-`Name = Sukhpal`
-</a>
-<a>
-`Class = MCA`
-</a>
-<a>
-`Age = 22`
-</a>
-<a>
-`Country = INDIA`
-</a>
-<a>
-`State = PUNJAB`
-</a>
-<a>
-`Living state = Not a Permanent.`
-</a>
-<a>
+`
+Name = Sukhpal
+Class = MCA
+Age = 22
+Country = INDIA
+State = PUNJAB
+Living state = Not a Permanent.`
+
 `Tavelling states = `
                     `PUNJAB`
                     `HARYANA`
