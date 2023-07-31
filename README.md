@@ -11,7 +11,8 @@
 `Country = INDIA`
 `State = PUNJAB`
 `Living state = Not a Permanent.`
-`Tavelling states = (``PUNJAB`
+`Tavelling states = `
+                    `PUNJAB`
                     `HARYANA`
                     `RAJASTHAN`
                     `GUJARAT`
@@ -25,7 +26,9 @@
                     `CHENNAI`
                     `BIHAR`
                     `HIMACHAL PRADESH`
-                    `JAMMU & KASHMIR``)
+                    `JAMMU & KASHMIR`
+                    `MADHYA PRADESH`
+                    `
 `Current State = HARYANA`
 `BECOME A SOFTWARE DEVELOPER`
 #######
