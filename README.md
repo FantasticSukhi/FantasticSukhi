@@ -5,7 +5,6 @@
 <a href="https://m.twitter.com/SukhiKherera" > <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
 
 #######
-```
 Name = Sukhpal,
 
 Class = MCA,
@@ -13,9 +12,9 @@ Class = MCA,
 Age = 22,
 Country = INDIA,
 State = PUNJAB,
-Living state = Not a Permanent,```
+Living state = Not a Permanent,
 
-`Tavelling states = `
+Tavelling states = 
                      PUNJAB,
                      HARYANA,
                      RAJASTHAN,
@@ -32,11 +31,11 @@ Living state = Not a Permanent,```
                      HIMACHAL PRADESH,
                      JAMMU & KASHMIR,
                      MADHYA PRADESH,
-                    `
-```
-`Current State = "HARYANA"`
-`BECOME A SOFTWARE DEVELOPER`
-```
+                    
+
+Current State = "HARYANA"
+BECOME A SOFTWARE DEVELOPER
+
 #######
 
 <a href="https://github.com/FantasticSukhi/FantasticSukhi" ><img src="https://komarev.com/ghpvc/?username=FantasticSukhi&color=blueviolet&style=flat-square" ></a>
