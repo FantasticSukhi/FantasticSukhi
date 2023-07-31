@@ -6,12 +6,14 @@
 
 #######
 `
-Name = Sukhpal
-Class = MCA
-Age = 22
-Country = INDIA
-State = PUNJAB
-Living state = Not a Permanent.`
+Name = Sukhpal,
+
+Class = MCA,
+
+Age = 22,
+Country = INDIA,
+State = PUNJAB,
+Living state = Not a Permanent,`
 
 `Tavelling states = `
                     `PUNJAB`
