@@ -5,12 +5,25 @@
 <a href="https://m.twitter.com/SukhiKherera" > <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
 
 #######
+<a>
 `Name = Sukhpal`
+</a>
+<a>
 `Class = MCA`
+</a>
+<a>
 `Age = 22`
+</a>
+<a>
 `Country = INDIA`
+</a>
+<a>
 `State = PUNJAB`
+</a>
+<a>
 `Living state = Not a Permanent.`
+</a>
+<a>
 `Tavelling states = `
                     `PUNJAB`
                     `HARYANA`
@@ -29,8 +42,13 @@
                     `JAMMU & KASHMIR`
                     `MADHYA PRADESH`
                     `
-`Current State = HARYANA`
+                    </a>
+                    <a>
+`Current State = "HARYANA"`
+</a>
+<a>
 `BECOME A SOFTWARE DEVELOPER`
+</a>
 #######
 
 <a href="https://github.com/FantasticSukhi/FantasticSukhi" ><img src="https://komarev.com/ghpvc/?username=FantasticSukhi&color=blueviolet&style=flat-square" ></a>
