@@ -14,7 +14,7 @@ Country = INDIA,
 State = PUNJAB,
 Living state = Not a Permanent,
 
-Tavelling states = 
+`Tavelling states = 
                      PUNJAB,
                      HARYANA,
                      RAJASTHAN,
@@ -31,6 +31,7 @@ Tavelling states =
                      HIMACHAL PRADESH,
                      JAMMU & KASHMIR,
                      MADHYA PRADESH,
+                     `
                     
 
 Current State = "HARYANA"
