@@ -28,8 +28,7 @@ Living state = Not a Permanent,
                      ODISHA,
                      PUNJAB,
                      RAJASTHAN,
-                     CHENNAI,
-                     BIHAR,
+                     TAMILNADU,
                      `               
 Current State = "HARYANA"
 BECOME A SOFTWARE DEVELOPER
