@@ -33,13 +33,8 @@ Living state = Not a Permanent,`
                     `JAMMU & KASHMIR`
                     `MADHYA PRADESH`
                     `
-                    </a>
-                    <a>
 `Current State = "HARYANA"`
-</a>
-<a>
 `BECOME A SOFTWARE DEVELOPER`
-</a>
 #######
 
 <a href="https://github.com/FantasticSukhi/FantasticSukhi" ><img src="https://komarev.com/ghpvc/?username=FantasticSukhi&color=blueviolet&style=flat-square" ></a>
