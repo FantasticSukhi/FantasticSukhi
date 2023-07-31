@@ -4,4 +4,14 @@
 <a href="https://www.instagram.com/Sukhpalinsta/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://m.twitter.com/SukhiKherera" > <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
 
+**`Name = Sukhpal`
+`Class = MCA`
+`Age = 22`
+`Country = INDIA`
+`State = PUNJAB`
+`Living state = Not a Permanent.`
+`Tavelling states = PUNJAB\nHARYANA\nRAJASTHAN\nGUJARAT\nMUMBAI\nUTTAR PRADESH\nBENGAL\nASSAM\nODISHA\nMAHARASTRA\nKARNATAKA\nKERELA\nCHENNAI\nBIHAR\nHIMACHAL PRADESH\nJAMMU & KASHMIR.`
+`Current State = HARYANA`
+`BECOME A SOFTWARE DEVELOPER`**
+
 <a href="https://github.com/FantasticSukhi/FantasticSukhi" ><img src="https://komarev.com/ghpvc/?username=FantasticSukhi&color=blueviolet&style=flat-square" ></a>
