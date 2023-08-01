@@ -93,7 +93,8 @@ I created these images, feel free to use them.
   
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FantasticSukhi&repo=KingXMusic&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/FantasticSukhi/KingXMusic) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FantasticSukhi&repo=Gorilla-Hosting&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/FantasticSukhi/GorillaRobot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FantasticSukhi&repo=KingXMusic&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/FantasticSukhi/KingXMusic) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FantasticSukhi&repo=GorillaRobot&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/FantasticSukhi/GorillaRobot)
 
 &nbsp;
 ``````
