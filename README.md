@@ -1,4 +1,3 @@
-
 # <img src="https://raw.githubusercontent.com/FantasticSukhi/README.md/master/wave.gif" width="30px"> Hi, I'm Sukhpal Kherera Programing Lover | [![Profile Views](https://gpvc.arturio.dev/FantasticSukhi)](https://github.com/FantasticSukhi)
    [![Black Mamba](https://github-stats-alpha.vercel.app/api?username=FantasticSukhi "Black Mamba")](https://github-stats-alpha.vercel.app/api?username=FantasticSukhi "Black Mamba")
 
@@ -71,14 +70,19 @@ I created these images, feel free to use them.
   ## 📊 &nbsp;Mamba Chat And Support
 <!-- Talking about groups -->
 
-<a href="https://t.me/THE_THIRD_EYE_NETWORK"><img src="https://img.shields.io/badge/Join-Channel%20Network-blue.svg?style=for-the-badge&logo=Telegram"></a>  <a href="https://t.me/DOSTOO_KI_DUNIYA"><img src="https://img.shields.io/badge/Join-Updates%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>  
+<a href="https://t.me/THE_THIRD_EYE_NETWORK"><img src="https://img.shields.io/badge/Join-Channel%20Network-blue.svg?style=for-the-badge&logo=Telegram"></a>  
+<a href="https://t.me/DOSTOO_KI_DUNIYA"><img src="https://img.shields.io/badge/Join-Updates%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>  
   
   
 ## 📊 &nbsp;My Groups
 <!-- Talking about groups -->
 
 ### Support & Updates ❤️❤️
-<a href="https://t.me/THE_THIRD_EYE_NETWORK"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a>  <a href="https://t.me/DOSTOO_KI_DUNIYA"><img src="https://img.shields.io/badge/Join-Updates%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>  <a href="https://t.me/CREATIVITY_MAMBA"><img src="https://img.shields.io/badge/Join-Owner%20ID-blue.svg?style=for-the-badge&logo=Telegram"></a>  <a href="https://t.me/BLACKMAMBA_THOUGHTS"><img src="https://img.shields.io/badge/Join-Black%20Mamba-blue.svg?style=for-the-badge&logo=Telegram"></a>  <a href="https://t.me/THE_THIRD_EYE_NETWORK"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a>  
+<a href="https://t.me/THE_THIRD_EYE_NETWORK"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a>  
+<a href="https://t.me/DOSTOO_KI_DUNIYA"><img src="https://img.shields.io/badge/Join-Updates%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>  
+<a href="https://t.me/CREATIVITY_MAMBA"><img src="https://img.shields.io/badge/Join-Owner%20ID-blue.svg?style=for-the-badge&logo=Telegram"></a>  
+<a href="https://t.me/BLACKMAMBA_THOUGHTS"><img src="https://img.shields.io/badge/Join-Black%20Mamba-blue.svg?style=for-the-badge&logo=Telegram"></a>  
+<a href="https://t.me/MAMBA_HACKS"><img src="https://img.shields.io/badge/Join-Hack%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>  
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
