@@ -43,7 +43,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Who I Am:**
   
-- 🚶‍ &nbsp; I live in : India [iN]  <br>
+- 🚶‍ &nbsp;I live in : India [iN]  <br>
 - 👀 I’m interested in ... 👉 Software Developer, Graphics designer, Video Editing etc.
 - 🌱 I’m currently learning ...Python.
 - 💞️ My Carrier ... [YouTube](https://youtube.com/HistoricalMania)
