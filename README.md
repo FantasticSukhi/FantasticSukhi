@@ -4,7 +4,7 @@
 ## 📊 &nbsp;Status
 
 <p align="center">
-  <a href="https://t.me/MAMBA_RETURNS"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
+  <a href="https://t.me/SelfGrowthOnline"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
     </p>
 <p align="center">
     <img
@@ -33,10 +33,12 @@ You can use the website to generate badges: https://shields.io/
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-| <a href="https://t.me/MAMBA_RETURNS"><img src="https://te.legra.ph/file/a6b26f0996cafde6f3f80.png" width="700px" height="300px" /></a> |
+| <a href="https://t.me/SelfGrowthOnline"><img src="https://te.legra.ph/file/a6b26f0996cafde6f3f80.png" width="700px" height="300px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Sukhpal is the Owner Of FantasticSukhi](https://t.me/MAMBA_RETURNS)**                                                                                |
-| <a href="https://t.me/MAMBA_RETURNS"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a> <a href="https://www.instagram.com/sukhpalinsta"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a> <a href="https://www.youtube.com/channel/jankarikiduniya"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="100px" height="100px"></a> <a href="https://facebook.com/asadali.bsat"><img src="https://telegra.ph/file/3274549109051466720ec.png" width="100px" height="100px">                                                                   
+|       **[Sukhpal is the Owner Of FantasticSukhi](https://t.me/SelfGrowthOnline)**                                                                                |
+| <a href="https://t.me/SelfGrowthOnline"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a> 
+<a href="https://www.instagram.com/sukhpalInsta"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a> 
+<a href="https://www.youtube.com/channel/HistoricalMania"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="100px"          
 
 ## 📊 &nbsp;About Me
   
@@ -47,7 +49,7 @@ You can use the website to generate badges: https://shields.io/
 - 👀 I’m interested in ... 👉 Software Developer, Graphics designer, Video Editing etc.
 - 🌱 I’m currently learning ...Python.
 - 💞️ My Carrier ... [YouTube](https://youtube.com/HistoricalMania)
-- 📫 How to reach me ...[MAMBA](https://t.me/MAMBA_RETURNS): Dev
+- 📫 How to reach me ...[MAMBA](https://t.me/SelfGrowthOnline): Dev
 - ⚡️ Fun-Fact: I'm Still Student;
 
 ## 📊 &nbsp;Disclaimer
@@ -60,7 +62,10 @@ Mamba Is A Most Powerful And Advanced Music And Telegram Management Bot, I Am No
 Here is list of my all bots
   <!-- Talking about disclaimer -->
   
-<a href="https://t.me/SECRET_GBOT"><img src="https://img.shields.io/badge/Try-SECRET%20BOT-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/KING_MUSIC_GBOT"><img src="https://img.shields.io/badge/Try-KING%20Music-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/iro_x_music_bot"><img src="https://img.shields.io/badge/Try-iro%20Music-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/X_SPAM_1_BOT"><img src="https://img.shields.io/badge/Try-spam%20Bot-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/"><img src="https://img.shields.io/badge/Try-SECRET%20BOT-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+<a href="https://t.me/"><img src="https://img.shields.io/badge/Try-KING%20Music-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+<a href="https://t.me/"><img src="https://img.shields.io/badge/Try-iro%20Music-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+<a href="https://t.me/"><img src="https://img.shields.io/badge/Try-spam%20Bot-blue.svg?style=for-the-badge&logo=Telegram"></a>
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
@@ -68,19 +73,17 @@ I created these images, feel free to use them.
   ## 📊 &nbsp;Mamba Chat And Support
 <!-- Talking about groups -->
 
-<a href="https://t.me/THE_THIRD_EYE_NETWORK"><img src="https://img.shields.io/badge/Join-Channel%20Network-blue.svg?style=for-the-badge&logo=Telegram"></a>  
-<a href="https://t.me/DOSTOO_KI_DUNIYA"><img src="https://img.shields.io/badge/Join-Updates%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>  
+<a href="https://t.me/MAMBA_X_NETWORK"><img src="https://img.shields.io/badge/Join-Channel%20Network-blue.svg?style=for-the-badge&logo=Telegram"></a>  
+<a href="https://t.me/MAMBA_SUPPORT_GROUP"><img src="https://img.shields.io/badge/Join-Updates%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>  
   
   
 ## 📊 &nbsp;My Groups
 <!-- Talking about groups -->
 
 ### Support & Updates ❤️❤️
-<a href="https://t.me/THE_THIRD_EYE_NETWORK"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a>  
-<a href="https://t.me/DOSTOO_KI_DUNIYA"><img src="https://img.shields.io/badge/Join-Updates%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>  
-<a href="https://t.me/CREATIVITY_MAMBA"><img src="https://img.shields.io/badge/Join-Owner%20ID-blue.svg?style=for-the-badge&logo=Telegram"></a>  
-<a href="https://t.me/BLACKMAMBA_THOUGHTS"><img src="https://img.shields.io/badge/Join-Black%20Mamba-blue.svg?style=for-the-badge&logo=Telegram"></a>  
-<a href="https://t.me/MAMBA_HACKS"><img src="https://img.shields.io/badge/Join-Hack%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>  
+<a href="https://t.me/MAMBA_X_NETWORK"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> a>  
+<a href="https://t.me/MAMBA_SUPPORT_GROUP"><img src="https://img.shields.io/badge/Join-Owner%20ID-blue.svg?style=for-the-badge&logo=Telegram"></a>  
+<a href="https://t.me/OfficialSelfGrowth"><img src="https://img.shields.io/badge/Join-Black%20Mamba-blue.svg?style=for-the-badge&logo=Telegram"></a>  
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
