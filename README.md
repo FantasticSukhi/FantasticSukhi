@@ -7,13 +7,8 @@
   <a href="https://t.me/SelfGrowthOnline"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
     </p>
 <p align="center">
-    <img
-        width="49%"
-        src="https://github-readme-stats.vercel.app/apiusername=FantasticSukhi&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats" />
-    <img
-        width="49%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=FantasticSukhi&theme=tokyonight"
-    />
+    <img width="49%" src="https://github-readme-stats.vercel.app/apiusername=FantasticSukhi&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"/>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=FantasticSukhi&theme=tokyonight" />
 </p>
 
 <h3>
@@ -37,7 +32,7 @@ You can use the website to generate badges: https://shields.io/
 |       **[Sukhpal is the Owner Of FantasticSukhi](https://t.me/SelfGrowthOnline)**                                                                                |
 | <a href="https://t.me/SelfGrowthOnline"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a> 
 <a href="https://www.instagram.com/sukhpalInsta"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a> 
-<a href="https://www.youtube.com/channel/HistoricalMania"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="100px"          
+<a href="https://www.youtube.com/channel/HistoricalMania"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="100px" </a>          
 
 ## 📊 &nbsp;About Me
   
