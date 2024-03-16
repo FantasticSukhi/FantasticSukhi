@@ -56,8 +56,8 @@ Mamba Is A Most Powerful And Advanced Music And Telegram Management Bot, I Am No
 Here is list of my all bots
   <!-- Talking about disclaimer -->
   
-<a href="https://t.me/"><img src="https://img.shields.io/badge/Try-GORILL%20XBOT-blue.svg?style=for-the-badge&logo=Telegram"></a> 
-<a href="https://t.me/"><img src="https://img.shields.io/badge/Try-MAMBA%20MUSIC%20XBOT-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+<a href="https://t.me/GORILL_XBOT"><img src="https://img.shields.io/badge/Try-GORILL%20XBOT-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+<a href="https://t.me/MAMBA_MUSIC_XBOT"><img src="https://img.shields.io/badge/Try-MAMBA%20MUSIC%20XBOT-blue.svg?style=for-the-badge&logo=Telegram"></a> 
 <a href="https://t.me/"><img src="https://img.shields.io/badge/Try-iro%20Music-blue.svg?style=for-the-badge&logo=Telegram"></a> 
 <a href="https://t.me/"><img src="https://img.shields.io/badge/Try-spam%20Bot-blue.svg?style=for-the-badge&logo=Telegram"></a>
 <!-- Your support, if you have it 
