@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/FantasticSukhi/README.md/master/wave.gif" width="30px"> Hi, I'm Sukhpal Kherera Programing Lover | [![Profile Views](https://gpvc.arturio.dev/FantasticSukhi)](https://github.com/FantasticSukhi)
+# <img src="https://raw.githubusercontent.com/FantasticSukhi/README.md/master/wave.gif" width="30px"> Hi, I'm Sukhpal Kherera Programing Lover | [![Profile Views](https://github.com/FantasticSukhi)](https://github.com/FantasticSukhi)
    [![Black Mamba](https://github-stats-alpha.vercel.app/api?username=FantasticSukhi "Black Mamba")](https://github-stats-alpha.vercel.app/api?username=FantasticSukhi "Black Mamba")
 
 ## 📊 &nbsp;Status
