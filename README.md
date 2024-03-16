@@ -39,11 +39,11 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Who I Am:**
   
-- 🚶‍ &nbsp;I live in : India [iN]  <br>
+- 🚶‍ I live in : India [iN]  <br>
 - 👀 I’m interested in ... 👉 Software Developer, Graphics designer, Video Editing etc.
 - 🌱 I’m currently learning ...Python.
 - 💞️ My Carrier ... [YouTube](https://youtube.com/HistoricalMania)
-- 📫 How to reach me ...[MAMBA](https://t.me/SelfGrowthOnline): Dev
+- 📫 How to reach me ...[MAMBA](https://t.me/ITZ_ME_BLACKMAMBA): Dev
 - ⚡️ Fun-Fact: I'm Still Student;
 
 ## 📊 &nbsp;Disclaimer
@@ -56,8 +56,8 @@ Mamba Is A Most Powerful And Advanced Music And Telegram Management Bot, I Am No
 Here is list of my all bots
   <!-- Talking about disclaimer -->
   
-<a href="https://t.me/"><img src="https://img.shields.io/badge/Try-SECRET%20BOT-blue.svg?style=for-the-badge&logo=Telegram"></a> 
-<a href="https://t.me/"><img src="https://img.shields.io/badge/Try-KING%20Music-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+<a href="https://t.me/"><img src="https://img.shields.io/badge/Try-GORILL%20XBOT-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+<a href="https://t.me/"><img src="https://img.shields.io/badge/Try-MAMBA%20MUSIC%20XBOT-blue.svg?style=for-the-badge&logo=Telegram"></a> 
 <a href="https://t.me/"><img src="https://img.shields.io/badge/Try-iro%20Music-blue.svg?style=for-the-badge&logo=Telegram"></a> 
 <a href="https://t.me/"><img src="https://img.shields.io/badge/Try-spam%20Bot-blue.svg?style=for-the-badge&logo=Telegram"></a>
 <!-- Your support, if you have it 
@@ -67,17 +67,17 @@ I created these images, feel free to use them.
   ## 📊 &nbsp;Mamba Chat And Support
 <!-- Talking about groups -->
 
-<a href="https://t.me/MAMBA_X_NETWORK"><img src="https://img.shields.io/badge/Join-Channel%20Network-blue.svg?style=for-the-badge&logo=Telegram"></a>  
-<a href="https://t.me/MAMBA_SUPPORT_GROUP"><img src="https://img.shields.io/badge/Join-Updates%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>  
+<a href="https://t.me/MAMBA_UPDATES"><img src="https://img.shields.io/badge/Join-Channel%20Network-blue.svg?style=for-the-badge&logo=Telegram"></a>  
+<a href="https://t.me/MAMBA_UPDATES_CHAT"><img src="https://img.shields.io/badge/Join-Updates%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>  
   
   
 ## 📊 &nbsp;My Groups
 <!-- Talking about groups -->
 
 ### Support & Updates ❤️❤️
-<a href="https://t.me/MAMBA_X_NETWORK"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> a>  
-<a href="https://t.me/MAMBA_SUPPORT_GROUP"><img src="https://img.shields.io/badge/Join-Owner%20ID-blue.svg?style=for-the-badge&logo=Telegram"></a>  
-<a href="https://t.me/OfficialSelfGrowth"><img src="https://img.shields.io/badge/Join-Black%20Mamba-blue.svg?style=for-the-badge&logo=Telegram"></a>  
+<a href="https://t.me/MAMBA_UPDATES"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> a>  
+<a href="https://t.me/MAMBA_UPDATES_CHAT"><img src="https://img.shields.io/badge/Join-Owner%20ID-blue.svg?style=for-the-badge&logo=Telegram"></a>  
+<a href="https://t.me/ITYZ_ME_BLACKMAMBA"><img src="https://img.shields.io/badge/Join-Black%20Mamba-blue.svg?style=for-the-badge&logo=Telegram"></a>  
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
