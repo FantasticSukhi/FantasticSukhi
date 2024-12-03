@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/FantasticSukhi/README.md/master/wave.gif" width="30px"> Hi, I'm Sukhpal Kherera Programing Lover | [![Profile View](https://envs.sh/CFW.jpg)]
+# <img src="https://raw.githubusercontent.com/FantasticSukhi/README.md/master/wave.gif" width="30px"> Hi, I'm Sukhpal Kherera Programing Lover | [Profile View](https://envs.sh/CFW.jpg)
    [![Black Mamba](https://github-stats-alpha.vercel.app/api?username=FantasticSukhi "Black Mamba")](https://github-stats-alpha.vercel.app/api?username=FantasticSukhi "Black Mamba")
 
 ## 📊 &nbsp;Status
