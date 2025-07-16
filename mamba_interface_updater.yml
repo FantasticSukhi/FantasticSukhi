@@ -1,0 +1,33 @@
+name: Mamba Command Interface Updater
+
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 */1 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Profile README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          # YouTube Feed
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC-w8a6rJ_MLaVvYw53aKo4g"
+          max_post_count: 4
+          comment_tag_name: "YOUTUBE"
+
+          # GitHub Activity Feed
+          max_post_count: 5
+          feed_list: "https://github.com/FantasticSukhi.atom"
+          comment_tag_name: "ACTIVITY"
+
+      - name: Update Spotify Now Playing
+        uses: Novuhz/spotify-readme@main
+        with:
+          spotify_client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          spotify_client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          spotify_refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          gh_token: ${{ secrets.GH_TOKEN }} # Needed for commit
